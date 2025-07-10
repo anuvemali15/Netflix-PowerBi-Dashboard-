@@ -20,7 +20,7 @@ This Power BI project presents a deep-dive analysis of Netflix content across va
 - Genre Trends Over Time
 
 ### 📌 Page 3: Content Popularity & Cast Impact
-[Netflix-Dash board_page3]( )
+[Netflix-Dash board_page3](https://github.com/anuvemali15/Netflix-PowerBi-Dashboard-/blob/main/Screenshot%202025-07-10%20190523.png)
 - Top 10 Most Featured Actors
 - Actor-wise Genre Involvement
 - Genre Diversity across Countries
