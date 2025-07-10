@@ -1,10 +1,10 @@
-# Netflix-PowerBi-Dashboard-
+[Netflix# Netflix-PowerBi-Dashboard-
 Power BI dashboard analyzing Netflix content by genres, countries, actors, and trends
 ## 🎬 Netflix Analysis Dashboard using Power BI
 This Power BI project presents a deep-dive analysis of Netflix content across various dimensions including genre, region, audience rating, actor involvement, and content trends.
 ---
 ## 📊 Dashboards Overview
-
+[Netflix-Dash board_page1] (https://github.com/anuvemali15/Netflix-PowerBi-Dashboard-/blob/main/Screenshot%202025-07-10%20190445.png)
 ### 📌 Page 1: Global Content Overview
 - Total Titles, Movies, and TV Shows
 - Top 10 Content Producing Countries
