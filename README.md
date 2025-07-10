@@ -13,12 +13,14 @@ This Power BI project presents a deep-dive analysis of Netflix content across va
 - Most Popular Genres
 
 ### 📌 Page 2: Content Strategy & Audience Insights
+[Netflix-Dash board_page2] (https://github.com/anuvemali15/Netflix-PowerBi-Dashboard-/blob/main/Screenshot%202025-07-10%20190507.png)
 - Average Duration by Genre
 - Rating by Genre
 - TV Shows vs Movies by Country
 - Genre Trends Over Time
 
 ### 📌 Page 3: Content Popularity & Cast Impact
+[Netflix-Dash board_page3]( )
 - Top 10 Most Featured Actors
 - Actor-wise Genre Involvement
 - Genre Diversity across Countries
