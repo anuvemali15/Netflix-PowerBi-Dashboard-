@@ -4,6 +4,8 @@ This interactive dashboard visualizes global Netflix content data including titl
 ---
 
 ## 📂 Project File
+- 📊 [Netflix_RawData.xlsx](./Netflix_RawData.xlsx) – Cleaned Excel dataset used for Power BI modeling
+
 
 - 🔗 [Netflix_Analysis.pbix](./Netflix_Analysis.pbix)
 
